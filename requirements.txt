@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+xgboost
+prophet
+snowflake-connector-python
+snowflake-sqlalchemy
+streamlit
+plotly
+python-dotenv
+faker
+sqlalchemy
+pytest
+jupyterlab
