@@ -231,8 +231,8 @@ streamlit run dashboard/app.py
 ## 👩‍💻 Author
 
 **Ritika Sisodiya**
-- LinkedIn: [your linkedin]
-- GitHub: [your github]
+- LinkedIn: https://www.linkedin.com/in/ritikaa-s
+- GitHub: ritika-s05
 
 ---
 
