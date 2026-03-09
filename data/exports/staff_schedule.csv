@@ -1,0 +1,43 @@
+role,description,recommended_count,hourly_rate,shift_hours,labor_cost,cost_per_unit,shift_date,day_of_week,is_weekend,total_units
+Head Baker,Manages baking operations,4,28,8,896,7.34,2025-07-01,Tuesday,False,122
+Pastry Chef,Handles pastries & cakes,4,24,8,768,6.3,2025-07-01,Tuesday,False,122
+Kitchen Assistant,Supports baking & prep,3,18,8,432,3.54,2025-07-01,Tuesday,False,122
+Store Associate,Customer service & sales,3,16,8,384,3.15,2025-07-01,Tuesday,False,122
+Decorator,Cake & pastry decoration,7,22,8,1232,10.1,2025-07-01,Tuesday,False,122
+Delivery,Order fulfillment & delivery,2,17,8,272,2.23,2025-07-01,Tuesday,False,122
+Head Baker,Manages baking operations,4,28,8,896,7.34,2025-07-02,Wednesday,False,122
+Pastry Chef,Handles pastries & cakes,4,24,8,768,6.3,2025-07-02,Wednesday,False,122
+Kitchen Assistant,Supports baking & prep,3,18,8,432,3.54,2025-07-02,Wednesday,False,122
+Store Associate,Customer service & sales,3,16,8,384,3.15,2025-07-02,Wednesday,False,122
+Decorator,Cake & pastry decoration,7,22,8,1232,10.1,2025-07-02,Wednesday,False,122
+Delivery,Order fulfillment & delivery,2,17,8,272,2.23,2025-07-02,Wednesday,False,122
+Head Baker,Manages baking operations,4,28,8,896,7.34,2025-07-03,Thursday,False,122
+Pastry Chef,Handles pastries & cakes,4,24,8,768,6.3,2025-07-03,Thursday,False,122
+Kitchen Assistant,Supports baking & prep,3,18,8,432,3.54,2025-07-03,Thursday,False,122
+Store Associate,Customer service & sales,3,16,8,384,3.15,2025-07-03,Thursday,False,122
+Decorator,Cake & pastry decoration,7,22,8,1232,10.1,2025-07-03,Thursday,False,122
+Delivery,Order fulfillment & delivery,2,17,8,272,2.23,2025-07-03,Thursday,False,122
+Head Baker,Manages baking operations,4,28,8,896,7.34,2025-07-04,Friday,False,122
+Pastry Chef,Handles pastries & cakes,4,24,8,768,6.3,2025-07-04,Friday,False,122
+Kitchen Assistant,Supports baking & prep,3,18,8,432,3.54,2025-07-04,Friday,False,122
+Store Associate,Customer service & sales,3,16,8,384,3.15,2025-07-04,Friday,False,122
+Decorator,Cake & pastry decoration,7,22,8,1232,10.1,2025-07-04,Friday,False,122
+Delivery,Order fulfillment & delivery,2,17,8,272,2.23,2025-07-04,Friday,False,122
+Head Baker,Manages baking operations,6,28,8,1344,7.91,2025-07-05,Saturday,True,170
+Pastry Chef,Handles pastries & cakes,6,24,8,1152,6.78,2025-07-05,Saturday,True,170
+Kitchen Assistant,Supports baking & prep,6,18,8,864,5.08,2025-07-05,Saturday,True,170
+Store Associate,Customer service & sales,5,16,8,640,3.76,2025-07-05,Saturday,True,170
+Decorator,Cake & pastry decoration,10,22,8,1760,10.35,2025-07-05,Saturday,True,170
+Delivery,Order fulfillment & delivery,4,17,8,544,3.2,2025-07-05,Saturday,True,170
+Head Baker,Manages baking operations,6,28,8,1344,7.91,2025-07-06,Sunday,True,170
+Pastry Chef,Handles pastries & cakes,6,24,8,1152,6.78,2025-07-06,Sunday,True,170
+Kitchen Assistant,Supports baking & prep,6,18,8,864,5.08,2025-07-06,Sunday,True,170
+Store Associate,Customer service & sales,5,16,8,640,3.76,2025-07-06,Sunday,True,170
+Decorator,Cake & pastry decoration,10,22,8,1760,10.35,2025-07-06,Sunday,True,170
+Delivery,Order fulfillment & delivery,4,17,8,544,3.2,2025-07-06,Sunday,True,170
+Head Baker,Manages baking operations,4,28,8,896,7.34,2025-07-07,Monday,False,122
+Pastry Chef,Handles pastries & cakes,4,24,8,768,6.3,2025-07-07,Monday,False,122
+Kitchen Assistant,Supports baking & prep,3,18,8,432,3.54,2025-07-07,Monday,False,122
+Store Associate,Customer service & sales,3,16,8,384,3.15,2025-07-07,Monday,False,122
+Decorator,Cake & pastry decoration,7,22,8,1232,10.1,2025-07-07,Monday,False,122
+Delivery,Order fulfillment & delivery,2,17,8,272,2.23,2025-07-07,Monday,False,122

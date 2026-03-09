@@ -1,0 +1,12 @@
+holiday_name,holiday_date,demand_multiplier
+Valentine's Day,2024-02-14,2.2
+Mother's Day,2024-05-12,2.8
+Father's Day,2024-06-16,1.8
+4th of July,2024-07-04,1.6
+Thanksgiving,2024-11-28,2.0
+Christmas Eve,2024-12-24,2.5
+Christmas Day,2024-12-25,2.3
+New Year's Eve,2024-12-31,1.9
+Valentine's Day,2025-02-14,2.2
+Mother's Day,2025-05-11,2.8
+Easter,2025-04-20,1.7

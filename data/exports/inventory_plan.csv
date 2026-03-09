@@ -1,0 +1,13 @@
+product_id,product_name,category,shelf_life_hours,unit_cost,unit_price,prep_hours,predicted_demand,is_weekend,forecast_date,safety_stock,recommended_bake,estimated_revenue,estimated_cost,estimated_margin,max_waste_risk,freshness_risk
+P001,Butter Croissant,Pastry,12,1.2,3.5,3,9,False,2025-07-01,1,10,35.0,12.0,23.0,1.2,🔴 HIGH
+P002,Sourdough Loaf,Bread,48,1.8,7.0,8,9,False,2025-07-01,1,10,70.0,18.0,52.0,1.8,🟢 LOW
+P003,Almond Danish,Pastry,10,1.1,3.0,2,9,False,2025-07-01,1,10,30.0,11.0,19.0,1.1,🔴 HIGH
+P004,Chocolate Cake,Cake,72,8.0,32.0,4,9,False,2025-07-01,2,11,352.0,88.0,264.0,16.0,🟢 LOW
+P005,Cinnamon Roll,Pastry,8,0.9,4.0,2,9,False,2025-07-01,1,10,40.0,9.0,31.0,0.9,🔴 HIGH
+P006,Bagel Plain,Bread,24,0.5,2.0,2,9,False,2025-07-01,1,10,20.0,5.0,15.0,0.5,🟡 MEDIUM
+P007,Macaron Box,Confection,72,4.0,18.0,3,9,False,2025-07-01,2,11,198.0,44.0,154.0,8.0,🟢 LOW
+P008,Cheese Danish,Pastry,10,1.2,3.5,2,9,False,2025-07-01,1,10,35.0,12.0,23.0,1.2,🔴 HIGH
+P009,Baguette,Bread,24,0.8,3.0,4,9,False,2025-07-01,1,10,30.0,8.0,22.0,0.8,🟡 MEDIUM
+P010,Custom Cake,Cake,48,18.0,65.0,6,9,False,2025-07-01,1,10,650.0,180.0,470.0,18.0,🟢 LOW
+P011,Blueberry Muffin,Muffin,24,0.7,3.0,1,9,False,2025-07-01,1,10,30.0,7.0,23.0,0.7,🟡 MEDIUM
+P012,Brioche Loaf,Bread,48,2.0,8.0,5,9,False,2025-07-01,1,10,80.0,20.0,60.0,2.0,🟢 LOW

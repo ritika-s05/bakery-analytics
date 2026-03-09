@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R²,MAPE %,Train Time
+Linear Regression,4.314,5.576,0.6315,58.3,0.01s
+Random Forest,4.668,6.168,0.549,61.77,0.28s
+XGBoost,4.79,6.314,0.5275,63.86,0.99s
+LightGBM,4.705,6.176,0.5478,62.83,0.75s
