@@ -6,9 +6,10 @@
 
 ---
 
-## View the Dashboard here - 
+# View the dashboard
 
-https://huggingface.co/spaces/sritikaa/crustiq-bakery
+[![Live Demo](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-yellow)](https://huggingface.co/spaces/sritikaa/crustiq-bakery)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/ritika-s05/bakery-analytics)
 
 ---
 
