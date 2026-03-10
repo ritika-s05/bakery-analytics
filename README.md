@@ -244,5 +244,5 @@ https://huggingface.co/spaces/sritikaa/crustiq-bakery
 
 ---
 
-> *Built with Python · Snowflake · XGBoost · Streamlit*
+> *Built with Python · Snowflake · XGBoost · Docker · Streamlit · HuggingFace*
 
