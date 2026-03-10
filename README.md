@@ -77,6 +77,19 @@ Streamlit Dashboard
 - **Silver** — 3 enriched views with business logic
 - **Gold** — 5 analytical tables ready for ML and dashboarding
 
+### 🚀 Deployment
+
+This app is deployed on **Hugging Face Spaces** using Docker.
+
+| Platform | Link |
+|---|---|
+| 🤗 Hugging Face Spaces | [Live Dashboard](https://huggingface.co/spaces/sritikaa/crustiq-bakery) |
+| 🐙 GitHub Repository | [Source Code](https://github.com/ritika-s05/bakery-analytics) |
+
+**Deployment Stack:**
+- Docker (python:3.11-slim)
+- Streamlit server on port 7860
+- Hosted on Hugging Face Spaces (CPU Basic — Free tier)
 ---
 
 ## 📁 Project Structure
@@ -182,7 +195,7 @@ python src/optimization/staff_optimizer.py
 
 **8. Launch dashboard**
 ```bash
-streamlit run dashboard/app.py
+https://huggingface.co/spaces/sritikaa/crustiq-bakery
 ```
 
 ---
