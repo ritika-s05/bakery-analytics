@@ -1,12 +1,12 @@
 # 🍞 CrustIQ — Bakery Inventory & Operations Intelligence Platform
 
 >An end-to-end data engineering and machine learning project that helps bakeries 
-make smarter decisions about inventory, staffing, and demand forecasting — 
+make smarter decisions about inventory, staffing, and demand forecasting
 reducing waste, cutting labor costs, and maximizing profit.
 
 >Built with a **Snowflake medallion data warehouse**, trained using **XGBoost & 
 LightGBM**, and deployed as an interactive dashboard on **Hugging Face Spaces** 
-using Docker — accessible live from anywhere, no setup required.
+using Docker accessible live from anywhere, no setup required.
 
 [![Live Demo](https://img.shields.io/badge/🤗%20Hugging%20Face-Live%20Demo-yellow)](https://huggingface.co/spaces/sritikaa/crustiq-bakery)
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-black)](https://github.com/ritika-s05/bakery-analytics)
