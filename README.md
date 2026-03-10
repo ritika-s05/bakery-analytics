@@ -6,11 +6,9 @@
 
 ---
 
-## 📸 Dashboard Preview
+## View the Dashboard here - 
 
-<img width="1470" height="839" alt="Screenshot 2026-03-08 at 18 51 14" src="https://github.com/user-attachments/assets/91704651-a2aa-432e-b1ec-9496f7edbf57" />
-
-<img width="1470" height="839" alt="Screenshot 2026-03-08 at 18 52 31" src="https://github.com/user-attachments/assets/8ff3aff3-55b0-40cb-809b-16d457f7f3c0" />
+https://huggingface.co/spaces/sritikaa/crustiq-bakery
 
 ---
 
